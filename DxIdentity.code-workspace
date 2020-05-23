@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "API"
+		},
+		{
+			"path": "FE-CMS"
+		},
+		{
+			"path": "FE-SSR"
+		}
+	],
+	"settings": {}
+}
